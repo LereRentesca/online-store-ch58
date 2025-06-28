@@ -1,9 +1,10 @@
-# Mini Challenge 1
+# Mini Challenge 3
 
-- Create a new component called footer.
-- Create a new css file to link the new rules.
-- Add the new component to the root component (put it after the h1 tag)
-- Add to the footer "Created by: YOUR_NAME"
+- Create a function that each times you click either on the "+" or "-" button print on the console "Buttons are working fine"
 
-## Extra challenge:
-- Fix the footer to the bottom of the webpage
+## Hints:
+
+- Just like About page, you will use the onClick event from the buttons
+
+## Extra challenge
+- Make the function that each time you click on the buttons you change the value of the variable
